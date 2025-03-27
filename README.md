@@ -42,3 +42,35 @@ Feel free to open an issue or a pull request if you have suggestions or improvem
 
 
 *Thank You!*
+
+
+
+## SPANISH
+
+# Resultados de DockerLabs  
+
+Este repositorio está creado para documentar mis resultados de las máquinas de DockerLabs.  
+
+## 🚀 Progreso  
+Conforme vaya completando las máquinas, iré subiendo y explicando los resultados para que todo el mundo pueda aprender de ellos. Haré las máquinas en orden de dificultad.  
+
+## 📂 Estructura  
+- **[Nombre de la máquina]** – Descripción de la máquina y los pasos que seguí para resolverla.  
+- **Comandos utilizados** – Lista de los comandos y técnicas de Docker utilizados.  
+- **Desafíos y soluciones** – Problemas encontrados y cómo los resolví.  
+
+## 🎯 Objetivo  
+El objetivo de este repositorio es proporcionar un recurso de aprendizaje para otros que quieran mejorar sus habilidades en Docker mediante ejemplos prácticos.  
+
+## ✅ Máquinas completadas  
+- [ ] Máquina 1  
+- [ ] Máquina 2  
+- [ ] Máquina 3  
+- [ ] ...  
+
+## 💡 Contribuciones  
+¡Si tienes sugerencias o mejoras, no dudes en abrir un issue o un pull request!  
+
+---
+
+**¡Feliz hacking!** 😎  
